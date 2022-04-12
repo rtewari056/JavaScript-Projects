@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Rohan Das",
+        "age": 18,
+        "city": "Kolkata",
+        "languages": "Python",
+        "framework": "Django",
+        "image": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "name": "Shubham Sharma",
+        "age": 28,
+        "city": "Bangalore",
+        "languages": "JavaScript",
+        "framework": "Angular",
+        "image": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "name": "Sneha Pandey",
+        "age": 23,
+        "city": "Delhi",
+        "languages": "Python",
+        "framework": "Django",
+        "image": "https://randomuser.me/api/portraits/women/1.jpg"
+    },
+    {
+        "name": "Harry Tewari",
+        "age": 20,
+        "city": "Kolkata",
+        "languages": "JavaScript",
+        "framework": "React Native",
+        "image": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+        "name": "Priya Singh",
+        "age": 24,
+        "city": "Mumbai",
+        "languages": "Python",
+        "framework": "Flask",
+        "image": "https://randomuser.me/api/portraits/women/2.jpg"
+    }
+]
