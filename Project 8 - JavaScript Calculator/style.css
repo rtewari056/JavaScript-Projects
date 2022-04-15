@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    text-align: center;
+    margin-top: 23px;
+}
+
+table{
+    margin: auto;
+}
+
+#screen{
+    font-size: 34px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+button{
+    font-size: 40px;
+    background: white;
+    width: 104px;
+    height: 60px;
+    border-radius: 10px;
+}
+
+.calculator{
+    display: inline-block;
+    background-color: black;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
